@@ -1,7 +1,7 @@
 # PS
 # 学习笔记
 
-![](https://www.jianguoyun.com/c/tblv2/Y2W6xcsFAZwr1jiMD5a2JfTD-2LUlOPLnKWZCkZWzPT37kYT4NuzTJM9rRnU1W6IRmrJHiSh/f1KsaAfQL--8zlGdfv1IYA/l)
+![](images/2023-08-14-15-52-42.png)
 
 再来一张
 ![](https://picx.zhimg.com/v2-d4153db5a2ee5de4b81cccd54b7eee36_r.jpg?source=1940ef5c)
